@@ -1,9 +1,11 @@
-# Hashtag-Generator-App
+# Hashtag Generator - Most Popular -App
 
-<H2>  Hashtag Generator App privacy policy </h2>
+<H2>  Privacy Policy for Hashtag Generator - Most Popular </h2>
 
-"Hashtag Generator is a free app. Different hashtags and captions are available in our app.
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our service.
+ArtBonix built the Hashtag Generator - Most Popular app as a free app. This service is provided by ArtBonix at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our Service.
+
 
 
 <H3> Collecting information </H3>
@@ -13,4 +15,5 @@ This page is used to inform visitors regarding our policies with the collection,
 
 <H3> Contact us / Customer support </H3>
 E-mail : 02xdeveloper@gmail.com
+Developer: ArtBonix
 
